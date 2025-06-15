@@ -21,3 +21,6 @@ response = WS.sendRequest(findTestObject('User-Single'))
 
 WS.verifyResponseStatusCode(response, 200)
 
+WS.verifyElementPropertyValue(response, 'data.id', 2)
+WS.verifyElementPropertyValue(response, 'data.email', 'janet.weaver@reqres.in')
+

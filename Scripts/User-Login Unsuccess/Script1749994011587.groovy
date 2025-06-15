@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-response = WS.sendRequest(findTestObject('null'))
+response = WS.sendRequest(findTestObject('Login-Unsuccess'))
 
-WS.verifyResponseStatusCode(response, 204)
+WS.verifyResponseStatusCode(response, 400)
 

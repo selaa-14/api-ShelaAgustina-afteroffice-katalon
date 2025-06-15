@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login-Success</name>
+   <name>User-Delete</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ae5eb84c-98d0-425f-94d4-73f4f951e0e4</testCaseGuid>
+   <testCaseGuid>4e85042b-d808-4469-8be6-22c0547d8d26</testCaseGuid>
 </TestCaseEntity>

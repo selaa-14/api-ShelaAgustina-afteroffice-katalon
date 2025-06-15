@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Logi-Success</name>
+   <name>Login-Success</name>
    <tag></tag>
    <elementGuidId>a0948e61-6295-4255-92ff-fae576f2a345</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
